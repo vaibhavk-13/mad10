@@ -1,0 +1,29 @@
+body {
+    background: linear-gradient(90deg, aliceblue, rgb(157, 201, 240));
+}
+
+#submit {
+    margin-top: 20px;
+}
+
+section {
+    border: 1px solid black;
+    width: 500px;
+    height: 550px;
+    background-color: rgb(123, 190, 248);
+    border-radius: 20px;
+}
+
+input {
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 18px;
+}
+
+table {
+    border: 1px solid black
+}
+
+tr, td, th {
+    padding: 10px;
+}

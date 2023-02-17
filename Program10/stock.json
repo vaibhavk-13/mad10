@@ -1,0 +1,112 @@
+[
+    {
+        "company": "3M",
+        "price_2007": 95.85,
+        "symbol": "MMM"
+    },
+    {
+        "company": "Amazon.com",
+        "price_2007": 93.43,
+        "symbol": "AMZN"
+    },
+    {
+        "company": "Campbell Soup",
+        "price_2007": 36.4,
+        "symbol": "CPB"
+    },
+    {
+        "company": "Disney",
+        "price_2007": 35.47,
+        "symbol": "DIS"
+    },
+    {
+        "company": "Dow Chemical",
+        "price_2007": 44.67,
+        "symbol": "DOW"
+    },
+    {
+        "company": "Exxon Mobil",
+        "price_2007": 91.36,
+        "symbol": "XOM"
+    },
+    {
+        "company": "Ford",
+        "price_2007": 8.37,
+        "symbol": "F"
+    },
+    {
+        "company": "The Gap",
+        "price_2007": 18.9,
+        "symbol": "GPS"
+    },
+    {
+        "company": "General Mills",
+        "price_2007": 28.76,
+        "symbol": "GIS"
+    },
+    {
+        "company": "Hewlett Packard",
+        "price_2007": 50.9,
+        "symbol": "HPQ"
+    },
+    {
+        "company": "IBM",
+        "price_2007": 116.3,
+        "symbol": "IBM"
+    },
+    {
+        "company": "Johnson & Johnson",
+        "price_2007": 66.25,
+        "symbol": "JNJ"
+    },
+    {
+        "company": "Microsoft",
+        "price_2007": 29.84,
+        "symbol": "MSFT"
+    },
+    {
+        "company": "Monsanto",
+        "price_2007": 86.93,
+        "symbol": "MO"
+    },
+    {
+        "company": "PepsiCo",
+        "price_2007": 73.74,
+        "symbol": "PEP"
+    },
+    {
+        "company": "Starbucks",
+        "price_2007": 26.84,
+        "symbol": "SBUX"
+    },
+    {
+        "company": "Texas Instruments",
+        "price_2007": 36.54,
+        "symbol": "TXN"
+    },
+    {
+        "company": "Time Warner",
+        "price_2007": 57.18,
+        "symbol": "TWX"
+    },
+    {
+        "company": "United Health",
+        "price_2007": 47.7,
+        "symbol": "UNH"
+    },
+    {
+        "company": "Walmart",
+        "price_2007": 47.53,
+        "symbol": "WMT"
+    },
+    {
+        "company": "Whirlpool",
+        "price_2007": 94.29,
+        "symbol": "WHR"
+    },
+    {
+        "company": "Xerox",
+        "price_2007": 17.54,
+        "symbol": "XRX"
+    }
+]
